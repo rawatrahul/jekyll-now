@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src="/images/pic.jpg" width="250">
 
 Hi, I m a software developer working in Bangalore, India. 
 
