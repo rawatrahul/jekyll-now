@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I m a software developer working in Bangalore, India. 
 
-### More Information
+I’m passionate about applying my knowledge of computer science and machine learning to various areas to solve problems. I am especially interested in Computer Vision and Deep Learning. I got B. Engg degree in Computer Science Engineering from RGPV University, Bhopal. Besides programming i also like watching movies, reading books and photography. 
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rahulrawat593@gmail.com](mailto:rahulrawat593@gmail.com)
