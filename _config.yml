@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://rawatrahul.github.io
-baseurl: /
+baseurl: http://rawatrahul.github.io
 title: Rahul Rawat
 author: Rahul Rawat
 description: Personal blog and resume
