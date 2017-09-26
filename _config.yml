@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://rawatrahul.github.io
-baseurl: http://rawatrahul.github.io
+url: http://rawatrahul.github.io/
+baseurl: /
 title: Rahul Rawat
 author: Rahul Rawat
 description: Personal blog and resume
