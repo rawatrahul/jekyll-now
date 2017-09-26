@@ -4,8 +4,8 @@ markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
-#paginate: 5
-#gems: [jekyll-paginate]
+paginate: 5
+gems: [jekyll-paginate]
 port: 3000
 safe: true
 
